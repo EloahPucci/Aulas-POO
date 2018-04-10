@@ -9,11 +9,11 @@ public class Exercicio1 {
 		sc.useLocale(Locale.ENGLISH);
 		Locale.setDefault(new Locale("en", "US"));
 		
-		System.out.println("Digite um número inteiro:");
+		System.out.println("Digite um nUmero inteiro:");
 		
 		int x = sc.nextInt();
 		
-		System.out.println("Você digitou o número: " + x);
+		System.out.println("Vocï¿½ digitou o nï¿½mero: " + x);
 		
 		sc.close();
 
