@@ -9,7 +9,7 @@ public class Exercicio1 {
 		sc.useLocale(Locale.ENGLISH);
 		Locale.setDefault(new Locale("en", "US"));
 		
-		System.out.println("Digite um nUmero inteiro:");
+		System.out.println("Digite um numero inteiro:");
 		
 		int x = sc.nextInt();
 		
